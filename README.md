@@ -1,1 +1,8 @@
-# README.md
+- 👋 Hi, I’m @ricketyca
+- I'm retired and mainly playing golf in the summer, indoor tennis in winter
+- I support a Golf League of seniors and provide a web site for them to use
+- The site is a Google Site 
+- We enter weekly score, and view results and statistics
+- 
+- 👀 I’m interested in cars (currently have a Jaguar XF)
+- 🌱 I’m currently learning how to use github
